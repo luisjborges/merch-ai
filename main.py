@@ -7,7 +7,7 @@ from agents import MerchandiseOrderAgents
 
 agents = MerchandiseOrderAgents()
 
-print("## Welcome to Das Merch - More sustainability with fabric and style!")
+print("## Welcome to the Merchandiser - More sustainability with fabric and style!")
 print('---------------------------------------------')
 product_category = input("What would you like to order today?\n")
 product_details = input("Please give us more details about the product (category, size, quantity, color):\n")
